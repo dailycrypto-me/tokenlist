@@ -1,0 +1,32 @@
+{
+    "name": "Daily Dex",
+    "logoURI": "https://raw.githubusercontent.com/dailycrypto-me/tokenlist/main/images/dly.png",
+    "keywords": [
+      "dailydex",
+      "defi"
+    ],
+    "timestamp": "2025-02-02T20:37:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 824,
+        "address": "0x2E631e360e4d0f1EfD842BAe8314f192EB756f1C",
+        "name": "Wrapped Daily",
+        "symbol": "WDLY",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/dailycrypto-me/tokenlist/main/images/dly.png"
+      },
+      {
+        "chainId": 825,
+        "address": "0x7f1C93e5017E7EB3b0C5eb1504909Ed612AB4831",
+        "name": "Wrapped Daily",
+        "symbol": "WDLY",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/dailycrypto-me/tokenlist/main/images/dly.png"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
